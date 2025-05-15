@@ -25,3 +25,9 @@ This project generates high-quality images based on text prompts using the **Sta
    - A **negative prompt** (optional, what they don’t want)
 4. If the negative prompt is empty, defaults to `"blurry, low quality"`.
 5. Generate and save the image as `output.png`.
+
+## Steps
+1. run "pip install -r Requirements.txt" in the terminal
+2. run the "Text_to_image_generator.py" file
+3. Enter the image prompt and the negative prompt (The negative prompt is a list of things you don’t want in the image).
+4. The image will be saved as output.png
